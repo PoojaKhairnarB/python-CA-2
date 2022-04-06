@@ -1,0 +1,2 @@
+example
+generic_m2m_field

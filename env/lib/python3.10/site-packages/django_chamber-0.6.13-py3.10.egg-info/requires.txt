@@ -1,0 +1,8 @@
+Django>=2.2
+Unidecode>=1.1.1
+pyprind>=2.11.2
+filemagic>=1.6
+
+[boto3storage]
+django-storages<2.0
+boto3
